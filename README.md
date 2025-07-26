@@ -26,6 +26,8 @@
 
 **对于本题，本班老师要求三个全做。本人将2、3两个项目合并为同一个，因此仓库中只有两组代码文件**
 
+**另外，对于作业2-3，本人将其打包为一个可执行程序与一个安装包，[点击前往](https://github.com/gnitimg/xiaobaiNoteBook)。**
+
 ## 作业3综合设计（同时也是结课作业）
 
 ### 要求：
@@ -37,9 +39,6 @@
 
 ### 附件：
 
-附件1、[数据结构综合设计题目要求.docx]([Data-structure-design-homework/作业3：综合设计/数据结构综合设计题目要求.docx at main · gnitimg/Data-structure-design-homework](https://github.com/gnitimg/Data-structure-design-homework/blob/main/作业3：综合设计/数据结构综合设计题目要求.docx))
+附件1、[数据结构综合设计题目要求.docx](https://github.com/gnitimg/Data-structure-design-homework/blob/main/作业3：综合设计/数据结构综合设计题目要求.docx )
 
-附件2、[课程设计报告要求.docx]([Data-structure-design-homework/作业3：综合设计/课程设计报告要求.docx at main · gnitimg/Data-structure-design-homework](https://github.com/gnitimg/Data-structure-design-homework/blob/main/作业3：综合设计/课程设计报告要求.docx))
-
-**另外，对于作业2-3，本人将其打包为一个可执行程序与一个安装包，[点击前往](https://github.com/gnitimg/xiaobaiNoteBook)。**
-
+附件2、[课程设计报告要求.docx](https://github.com/gnitimg/Data-structure-design-homework/blob/main/作业3：综合设计/课程设计报告要求.docx)
